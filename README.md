@@ -147,7 +147,7 @@ Frontend/
 
 ## 🔗 Links
 
-- **Frontend Demo**: https://walmart-sparkathon-oops.vercel.app/
-- **Backend API**: https://faheems-arm-server.ddnsfree.com/api
+- **🌐 Live MVP**: https://walmart-sparkathon-oops.vercel.app/
+- **🎥 Video Demo**: TO BE ADDED
 
 ---
