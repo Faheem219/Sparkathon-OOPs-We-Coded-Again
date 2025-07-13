@@ -147,7 +147,7 @@ Frontend/
 
 ## 🔗 Links
 
-- **Frontend Demo**: [Your deployed frontend URL]
-- **Backend API**: [Your deployed backend URL]
+- **Frontend Demo**: https://walmart-sparkathon-oops.vercel.app/
+- **Backend API**: https://faheems-arm-server.ddnsfree.com/api
 
 ---
