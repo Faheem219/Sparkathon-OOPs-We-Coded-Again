@@ -148,6 +148,6 @@ Frontend/
 ## 🔗 Links
 
 - **🌐 Live MVP**: https://walmart-sparkathon-oops.vercel.app/
-- **🎥 Video Demo**: TO BE ADDED
+- **🎥 Video Demo**: https://www.youtube.com/watch?v=TbEjR7dkr9I
 
 ---
